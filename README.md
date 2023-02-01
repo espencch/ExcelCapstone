@@ -1,7 +1,11 @@
-##CHEOW CHONG HUA
-##An analysis of health indicators from ALEX TEBOUL on Diabetes
+## CHEOW CHONG HUA
+
+## An analysis of health indicators from ALEX TEBOUL on Diabetes
+
 Source : KAGGLE.COM 
+
 [Dataset Link](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset)
+
 ![Screenshot of dashboard](https://i.imgur.com/oVcapa4.png)
 
 Description:
